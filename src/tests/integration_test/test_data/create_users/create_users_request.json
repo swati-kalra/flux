@@ -1,0 +1,11 @@
+{
+    "user1_payload": {
+        "name": "morpheus",
+        "job": "leader"
+    },
+    "user2_payload": {
+        "name": "some_other_name",
+        "job": "leader"
+    }
+
+}

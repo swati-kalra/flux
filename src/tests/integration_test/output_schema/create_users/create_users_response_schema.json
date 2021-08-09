@@ -1,0 +1,14 @@
+{
+  "create_users_response_schema": {
+    "name": {"type": "string"},
+    "job": {"type": "string"},
+    "id": {"type": "string"},
+    "createdAt": {"type": "string"}
+  },
+  "create_users_response_schema_2": {
+    "name": {"type": "boolean"},
+    "job": {"type": "string"},
+    "id": {"type": "string"},
+    "createdAt": {"type": "string"}
+  }
+}

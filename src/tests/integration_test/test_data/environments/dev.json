@@ -1,0 +1,7 @@
+{
+  "base_url" : "https://reqres.in/api/users",
+  "get_users" : "?page=2",
+  "schema_file_path_get_user" : "output_schema/get_users/get_users_response_schema.json",
+  "test_data_file_path_create_user" : "test_data/create_users/create_users_request.json",
+  "schema_file_path_create_user" : "output_schema/create_users/create_users_response_schema.json"
+}

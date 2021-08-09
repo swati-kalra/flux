@@ -1,0 +1,8 @@
+{
+    "page": {"type": "integer"},
+    "per_page": {"type": "integer"},
+    "total": {"type": "integer"},
+    "total_pages": {"type": "integer"},
+    "data": {"type": "list"},
+    "support": {"type": "dict"}
+}
